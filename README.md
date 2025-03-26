@@ -6,7 +6,7 @@ This repository swohscases my work in quantum computing. Currently, it includes 
 
 * **QPE (Quantum Phase Estimation) 🌀:** A fundamental quantum algorithm that extracts the phase introduced by a unitary operator using controlled gates and the Inverse Quantum Fourier Transform (IQFT).
 
-* **VQE (Variational Quantum Eigensolver) Implementation 🔬:** A hybrid quantum-classical algorithm for approximating ground states of quantum systems (work in progress).
+* **VQE (Variational Quantum Eigensolver) Implementation 🔬:** A hybrid quantum-classical algorithm for approximating ground states of quantum systems.
 
 📌 More algorithms and quantum experiments will be added in the future. Contributions and suggestions are welcome! 🚀
 
