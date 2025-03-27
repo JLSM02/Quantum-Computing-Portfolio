@@ -10,6 +10,6 @@ This repository swohscases my work in quantum computing. Currently, it includes 
 
 📌 More algorithms and quantum experiments will be added in the future. Contributions and suggestions are welcome! 🚀
 
-📍Beside Quantum computing, this repository aims to be a demonstration of my programming skills in Python, data analysis and version control with Git. You can take a look of my other projects:
+📍Beside Quantum computing, this repository aims to be a demonstration of my programming skills in Python, data analysis and version control with Git. You can take a look of my **other projects**:
 
 * The code used in my **Bachelor's Degree Final Project in Physics ⚛️:** [Sandpile Model simulation and data analysis](https://github.com/JLSM02/SOC)
